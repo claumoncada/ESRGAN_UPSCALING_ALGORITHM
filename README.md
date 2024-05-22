@@ -3,13 +3,11 @@
 Implement the ESRGAN (Enhanced Super Resolution Generative Adversarial Network) algorithm to improve the quality of the original images presented. Additionally, metrics such as PSNR (Peak Signal to Noise Ratio) are calculated to evaluate the quadratic error between the original and super resolution generated images. The SSIM (Structural Similarity Index Metric) is also proposed to evaluate the distribution of brightness, contrast and structure details of the images.
 
 ## Implementation of ESRGAN Algorithm for Upscaling
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 The ESRGAN algorithm preserves detail and visual quality through its ability to learn complex patterns. It uses a generative model, which helps to capture finer details in images, resulting in higher visual quality results. This also helps to contain realistic details, which is useful in a diverse number of applications and scenarios. This colab demonstrates use of TensorFlow Hub Module for Enhanced Super Resolution Generative Adversarial Network (*by Xintao Wang et.al.*) [[Paper](https://arxiv.org/pdf/1809.00219.pdf)] [[Code](https://www.tensorflow.org/hub/tutorials/image_enhancing)] for image enhancing. 
 
 
 ## Dataset
-Dataset of 72 low-resolution images from the OpenStreetView API is available. The dataset used was the one provided in the following [[Github repository](https://github.com/DiversaStudio/Test.git)]
+Dataset of 72 low-resolution images from the OpenStreetView API is available. The dataset used was the one provided in the following [Github repository](https://github.com/DiversaStudio/Test.git).
 
 ## Results
 
