@@ -16,7 +16,7 @@ The following represents an example of the original image and the corresponding 
 ![alt text](RESULT_PSNR_SSIM_ESRGAN.png)
 
 ## Instructions
-- You can easily access to the notebook here: [![Open In Colab](https://colab.research.google.com/drive/1hs4TcCYEQrnOXGNYGBTj8QaQ2zd1COAv?usp=sharing)
+- You can easily access to the notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hs4TcCYEQrnOXGNYGBTj8QaQ2zd1COAv?usp=sharing)
 - Check that the Runtime type is Python3.
 - Check that the hardware accelerator is a GPU.
 - Run all cells or run cell by cell.
