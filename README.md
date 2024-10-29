@@ -1,4 +1,4 @@
-# Diversa_prueba_tecnica
+# ESRGAN 
 ## Project Overview
 Implement the ESRGAN (Enhanced Super Resolution Generative Adversarial Network) algorithm to improve the quality of the original images presented. Additionally, metrics such as PSNR (Peak Signal to Noise Ratio) are calculated to evaluate the quadratic error between the original and super resolution generated images. The SSIM (Structural Similarity Index Metric) is also proposed to evaluate the distribution of brightness, contrast and structure details of the images.
 
